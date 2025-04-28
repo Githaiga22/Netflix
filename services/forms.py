@@ -5,6 +5,7 @@ from .models import Service, RequestService
 from django.core.validators import MinValueValidator
 
 
+#forms for creating and requesting services
 
 class CreateNewService(forms.ModelForm):
     name = forms.CharField(max_length=40)
