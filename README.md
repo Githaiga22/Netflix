@@ -152,6 +152,6 @@ Customers can request services by providing:
 
 ## Contributors
 
-[Valeria Muhembele](https://github.com/anamivale/)
+[Allan Robinson](https://github.com/Githaiga22/)
 
-[Moses Onyango](https://github.com/moseeh)
+[Fred Gitonga](https://github.com/fredmunene)
