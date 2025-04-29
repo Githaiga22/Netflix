@@ -142,8 +142,8 @@ class UserLoginForm(forms.Form):
     def __init__(self, *args, **kwargs):
         super(UserLoginForm, self).__init__(*args, **kwargs)
 
-    email = forms.EmailField(widget=forms.TextInput(
-        attrs={'placeholder': 'Enter Email'}))
+    username = forms.CharField(widget=forms.TextInput(
+        attrs={'placeholder': 'Enter Username'}))
     password = forms.CharField(
         widget=forms.PasswordInput(attrs={'placeholder': 'Enter Password'}))
 
