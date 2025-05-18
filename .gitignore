@@ -1,0 +1,5 @@
+*.pyc
+netfix/bin
+netfix/include
+netfix/lib64
+netfix/lib
